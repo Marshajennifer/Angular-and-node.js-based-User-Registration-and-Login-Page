@@ -1,0 +1,59 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "Admin User",
+      "password": "Marsha@123",
+      "email": "mmk@gmail.com",
+      "gender": "female",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "mmk123",
+      "name": "Marsha",
+      "password": "Marsha@123",
+      "email": "mmk@gmail.com",
+      "gender": "female",
+      "role": "staff",
+      "isactive": true
+    },
+    {
+      "id": "athulya",
+      "name": "Athulya",
+      "password": "Athulya@123",
+      "email": "athulya@123",
+      "gender": "female",
+      "role": "staff",
+      "isactive": true
+    },
+    {
+      "id": "athu123",
+      "name": "Athulyaa",
+      "password": "Laptop@123",
+      "email": "athu@gmail.com",
+      "gender": "female",
+      "role": "staff",
+      "isactive": true
+    },
+    {
+      "id": "cat123",
+      "name": "Catherine",
+      "password": "Hello@123",
+      "email": "catherine@gmail.com",
+      "gender": "female",
+      "role": "staff",
+      "isactive": true
+    }
+  ],
+  "role": [
+    {
+      "code": "staff",
+      "name": "Staff"
+    },
+    {
+      "code": "quality",
+      "name": "Quality"
+    }
+  ]
+}
